@@ -2,6 +2,12 @@
 https://colab.research.google.com/drive/1BMeRqN5PN_2DOOdJGXIMTlYKoZvBxRiJ#scrollTo=YKBIk1Rk2SCi
 
 ---
+<img width="1470" alt="Screenshot 2025-04-22 at 10 41 53 PM" src="https://github.com/user-attachments/assets/19ae1cbb-5352-4482-98d3-5847d5e396c2" />
+<img width="1470" alt="Screenshot 2025-04-22 at 10 42 00 PM" src="https://github.com/user-attachments/assets/37d15129-9a67-4dda-9605-90aa3d02ec2e" />
+<img width="1470" alt="Screenshot 2025-04-22 at 10 42 09 PM" src="https://github.com/user-attachments/assets/a83224d2-9ab9-4edc-90d3-bbd157267141" />
+<img width="1470" alt="Screenshot 2025-04-22 at 10 42 16 PM" src="https://github.com/user-attachments/assets/67b296a9-9dd1-4499-ad6f-acfa195cac03" />
+
+---
 **Data Sources**
 
 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
@@ -48,7 +54,3 @@ NumPy: Numerical computations.
 4.**Streamlit** : for basic web UI and application.
 
 ---
-<img width="1470" alt="Screenshot 2025-04-22 at 10 41 53 PM" src="https://github.com/user-attachments/assets/19ae1cbb-5352-4482-98d3-5847d5e396c2" />
-<img width="1470" alt="Screenshot 2025-04-22 at 10 42 00 PM" src="https://github.com/user-attachments/assets/37d15129-9a67-4dda-9605-90aa3d02ec2e" />
-<img width="1470" alt="Screenshot 2025-04-22 at 10 42 09 PM" src="https://github.com/user-attachments/assets/a83224d2-9ab9-4edc-90d3-bbd157267141" />
-<img width="1470" alt="Screenshot 2025-04-22 at 10 42 16 PM" src="https://github.com/user-attachments/assets/67b296a9-9dd1-4499-ad6f-acfa195cac03" />
