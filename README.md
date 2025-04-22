@@ -34,17 +34,17 @@ https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 ---
 **Tech-Stack**
 
-1.Data Science & Machine Learning Python: Core language for data processing and modeling.
+1.**Data Science & Machine Learning Python** : Core language for data processing and modeling.
 Pandas: Data manipulation.
 NumPy: Numerical computations.
 
 
-2.Scikit-learn : i.CountVectorizer - Text vectorization , ii.cosine_similarity - To measure movie similarity.
+2.**Scikit-learn** : i.CountVectorizer - Text vectorization , ii.cosine_similarity - To measure movie similarity.
 
 
-3.NLTK : For advanced text preprocessing like stemming.
+3.**NLTK** : For advanced text preprocessing like stemming.
 
 
-4.Streamlit : for basic web UI and application.
+4.**Streamlit** : for basic web UI and application.
 
 ---
