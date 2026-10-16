@@ -1,5 +1,4 @@
 # Movie-Recommender-System
-https://colab.research.google.com/drive/1BMeRqN5PN_2DOOdJGXIMTlYKoZvBxRiJ#scrollTo=YKBIk1Rk2SCi
 
 ---
 <img width="1470" alt="Screenshot 2025-04-22 at 10 41 53 PM" src="https://github.com/user-attachments/assets/19ae1cbb-5352-4482-98d3-5847d5e396c2" />
